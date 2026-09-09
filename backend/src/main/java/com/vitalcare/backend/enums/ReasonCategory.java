@@ -1,0 +1,52 @@
+package com.vitalcare.backend.enums;
+
+public enum ReasonCategory {
+
+    GENERAL_CONSULTATION,
+
+    FEVER,
+
+    COLD_COUGH,
+
+    HEADACHE,
+
+    CHEST_PAIN,
+
+    BREATHING_DIFFICULTY,
+
+    HIGH_BLOOD_PRESSURE,
+
+    SKIN_RASH_ITCHING,
+
+    HAIR_SCALP_PROBLEM,
+
+    STOMACH_PAIN,
+
+    DIGESTIVE_PROBLEM,
+
+    JOINT_PAIN,
+
+    BACK_PAIN,
+
+    BONE_INJURY,
+
+    EAR_PROBLEM,
+
+    NOSE_SINUS_PROBLEM,
+
+    THROAT_PROBLEM,
+
+    EYE_PROBLEM,
+
+    VISION_PROBLEM,
+
+    CHILD_HEALTH_CONSULTATION,
+
+    WOMENS_HEALTH_CONSULTATION,
+
+    ROUTINE_CHECKUP,
+
+    FOLLOW_UP_CONSULTATION,
+
+    OTHER
+}
