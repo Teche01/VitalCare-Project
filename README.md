@@ -1,4 +1,4 @@
-# VitalCare – Multi-Speciality Hospital Appointment Booking and Consultation Management System
+# VitalCare – Hospital Appointment Booking and Consultation Management System
 
 VitalCare is a multi-speciality hospital appointment booking and consultation management system designed to simplify interactions between patients and hospital staff.
 
